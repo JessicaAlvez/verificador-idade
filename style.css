@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.2em;
+}
+
+header {
+    color:white;
+    text-align: center;
+}
+
+section {
+    margin: auto;
+    width: 450px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+div {
+    padding: 10px;
+}
+
+#txtano {
+    width: 90px;
+}
+
+#botao {
+    padding: 8px 15px;
+    font-size: 13pt;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
